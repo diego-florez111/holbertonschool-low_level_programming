@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -e main.c > c
+gcc -E main.c > c
