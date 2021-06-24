@@ -1,4 +1,9 @@
 #include <stdio.h>
+/**
+ * main - this is an example description of the function main
+ *
+ * Return: it should return 0
+ */
 int main(void)
 
 {
