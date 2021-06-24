@@ -9,6 +9,6 @@ int main(void)
 {
 	char string_5[] = "with proper grammar, but the outcome is a piece of art,";
 
-	printf("%s", string_5);
+	printf("%s\n", string_5);
 	return (0);
 }
